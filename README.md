@@ -123,7 +123,6 @@ Follow these instructions to set up and run ReconLab on your local machine.
 ### Authentication
 *   **Register**: Create a new account using your email and password.
 *   **Login**: Sign in with your existing credentials.
-*   **Demo Mode**: You can use any email/password combination for demo purposes; Firebase will handle the account creation.
 
 ### Running Scans
 1.  Navigate to any module (e.g., "Subdomain Enumeration", "Endpoint Discovery").
@@ -134,9 +133,8 @@ Follow these instructions to set up and run ReconLab on your local machine.
 
 ### AI Assistant
 1.  Go to the "AI Assistant" section.
-2.  The OpenRouter provider with DeepSeek R1 is pre-configured.
-3.  You can optionally paste scan results or reports into the "Context" field for the AI to analyze.
-4.  Type your questions or requests related to cybersecurity, attack vectors, or penetration testing.
+2.  You can optionally paste scan results or reports into the "Context" field for the AI to analyze.
+3.  Type your questions or requests related to cybersecurity, attack vectors, or penetration testing.
 
 ### Reports
 1.  Visit the "Reports" section.

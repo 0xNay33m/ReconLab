@@ -41,16 +41,7 @@ Tools and functionalities to streamline your security testing process:
 *   **Note Keeping**: An organized documentation system to track findings, methodologies, and progress systematically.
 *   **Vulnerability Checklist**: A comprehensive testing workflow tracker to ensure complete coverage of security testing phases.
 *   **Reports**: Generate and manage professional security assessment reports, with options to store results in a database.
-
-### 🔒 User Management & Reporting
-
-Secure and personalized experience for every user:
-
-*   **Firebase Authentication**: Secure user registration and login system.
-*   **Protected Routes**: Ensures only authenticated users can access the dashboard.
-*   **Per-User Data Isolation**: Each logged-in user sees and manages only their own scan results and reports.
-*   **MongoDB Integration**: Store scan results persistently in a MongoDB database.
-*   **Report Deletion**: Securely delete stored reports, with user verification.
+*   
 
 ## 💻 Technologies Used
 

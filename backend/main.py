@@ -110,7 +110,7 @@ class ResultResponse(BaseModel):
 
 class AIRequest(BaseModel):
     message: str
-    api_key: str = "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"
+    api_key: str = "Your-API-Key"
     provider: str = "openrouter"  # openrouter, deepseek, or openai
     context: Optional[str] = None  # scan results or report context
 
